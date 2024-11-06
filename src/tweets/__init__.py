@@ -1,5 +1,3 @@
-__all__ = (
-    "Tweet",
-)
+__all__ = ("Tweet",)
 
-from . models import Tweet
+from .models import Tweet
